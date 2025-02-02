@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\Econtact\\Econtact\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54598254-DF65-4406-8197-1ED24F865A8B}|Econtact\\Econtact.csproj|A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\Econtact\\Econtact\\econtact\\econtact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54598254-DF65-4406-8197-1ED24F865A8B}|Econtact\\Econtact.csproj|solutionrelative:econtact\\econtact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54598254-DF65-4406-8197-1ED24F865A8B}|Econtact\\Econtact.csproj|A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\Econtact\\Econtact\\econtact\\econtactclasses\\econtactclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54598254-DF65-4406-8197-1ED24F865A8B}|Econtact\\Econtact.csproj|solutionrelative:econtact\\econtactclasses\\econtactclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54598254-DF65-4406-8197-1ED24F865A8B}|Econtact\\Econtact.csproj|A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\Econtact\\Econtact\\econtact\\econtact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54598254-DF65-4406-8197-1ED24F865A8B}|Econtact\\Econtact.csproj|solutionrelative:econtact\\econtact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54598254-DF65-4406-8197-1ED24F865A8B}|Econtact\\Econtact.csproj|A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\Econtact\\Econtact\\econtact\\econtact.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54598254-DF65-4406-8197-1ED24F865A8B}|Econtact\\Econtact.csproj|solutionrelative:econtact\\econtact.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54598254-DF65-4406-8197-1ED24F865A8B}|Econtact\\Econtact.csproj|A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\Econtact\\Econtact\\econtact\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{54598254-DF65-4406-8197-1ED24F865A8B}|Econtact\\Econtact.csproj|solutionrelative:econtact\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Econtact.cs",
+              "DocumentMoniker": "A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\Econtact\\Econtact\\Econtact\\Econtact.cs",
+              "RelativeDocumentMoniker": "Econtact\\Econtact.cs",
+              "ToolTip": "A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\Econtact\\Econtact\\Econtact\\Econtact.cs",
+              "RelativeToolTip": "Econtact\\Econtact.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:54:10.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "econtactClass.cs",
+              "DocumentMoniker": "A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\Econtact\\Econtact\\Econtact\\econtactClasses\\econtactClass.cs",
+              "RelativeDocumentMoniker": "Econtact\\econtactClasses\\econtactClass.cs",
+              "ToolTip": "A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\Econtact\\Econtact\\Econtact\\econtactClasses\\econtactClass.cs",
+              "RelativeToolTip": "Econtact\\econtactClasses\\econtactClass.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAuwKsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:59:26.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Econtact.cs [Design]",
+              "DocumentMoniker": "A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\Econtact\\Econtact\\Econtact\\Econtact.cs",
+              "RelativeDocumentMoniker": "Econtact\\Econtact.cs",
+              "ToolTip": "A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\Econtact\\Econtact\\Econtact\\Econtact.cs [Design]",
+              "RelativeToolTip": "Econtact\\Econtact.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:36:28.406Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Econtact.Designer.cs",
+              "DocumentMoniker": "A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\Econtact\\Econtact\\Econtact\\Econtact.Designer.cs",
+              "RelativeDocumentMoniker": "Econtact\\Econtact.Designer.cs",
+              "ToolTip": "A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\Econtact\\Econtact\\Econtact\\Econtact.Designer.cs",
+              "RelativeToolTip": "Econtact\\Econtact.Designer.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAewNkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:11:32.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\Econtact\\Econtact\\Econtact\\App.config",
+              "RelativeDocumentMoniker": "Econtact\\App.config",
+              "ToolTip": "A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\Econtact\\Econtact\\Econtact\\App.config",
+              "RelativeToolTip": "Econtact\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-18T20:23:43.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

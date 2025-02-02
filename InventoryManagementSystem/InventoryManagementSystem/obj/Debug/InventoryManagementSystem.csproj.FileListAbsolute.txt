@@ -1,0 +1,46 @@
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerButton.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.WelcomeForm.resources
+A:\NED(tiest)\git2\C# DESKTOP APPLICATION\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+A:\NED(tiest)\git2\C# DESKTOP APPLICATION\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+A:\NED(tiest)\git2\C# DESKTOP APPLICATION\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+A:\NED(tiest)\git2\C# DESKTOP APPLICATION\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+A:\NED(tiest)\git2\C# DESKTOP APPLICATION\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryForm.resources
+A:\NED(tiest)\git2\C# DESKTOP APPLICATION\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryModuleForm.resources
+A:\NED(tiest)\git2\C# DESKTOP APPLICATION\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerButton.resources
+A:\NED(tiest)\git2\C# DESKTOP APPLICATION\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerForm.resources
+A:\NED(tiest)\git2\C# DESKTOP APPLICATION\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerModuleForm.resources
+A:\NED(tiest)\git2\C# DESKTOP APPLICATION\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+A:\NED(tiest)\git2\C# DESKTOP APPLICATION\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+A:\NED(tiest)\git2\C# DESKTOP APPLICATION\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderForm.resources
+A:\NED(tiest)\git2\C# DESKTOP APPLICATION\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderModuleForm.resources
+A:\NED(tiest)\git2\C# DESKTOP APPLICATION\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductForm.resources
+A:\NED(tiest)\git2\C# DESKTOP APPLICATION\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductModuleForm.resources
+A:\NED(tiest)\git2\C# DESKTOP APPLICATION\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+A:\NED(tiest)\git2\C# DESKTOP APPLICATION\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserForm.resources
+A:\NED(tiest)\git2\C# DESKTOP APPLICATION\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserModuleForm.resources
+A:\NED(tiest)\git2\C# DESKTOP APPLICATION\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.WelcomeForm.resources
+A:\NED(tiest)\git2\C# DESKTOP APPLICATION\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+A:\NED(tiest)\git2\C# DESKTOP APPLICATION\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+A:\NED(tiest)\git2\C# DESKTOP APPLICATION\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+A:\NED(tiest)\git2\C# DESKTOP APPLICATION\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb

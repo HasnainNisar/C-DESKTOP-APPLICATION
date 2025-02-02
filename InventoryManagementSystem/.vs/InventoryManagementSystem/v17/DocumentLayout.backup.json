@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\InventoryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|a:\\ned(tiest)\\git2\\c# desktop application\\inventorymanagementsystem\\inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\InventoryManagementSystem\\inventorymanagementsystem\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\InventoryManagementSystem\\inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\InventoryManagementSystem\\inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\InventoryManagementSystem\\InventoryManagementSystem\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\LoginForm.Designer.cs",
+              "ToolTip": "A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\InventoryManagementSystem\\InventoryManagementSystem\\LoginForm.Designer.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAewFcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:49:54.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\MainForm.cs",
+              "ToolTip": "A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\MainForm.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:09:22.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\InventoryManagementSystem\\InventoryManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\LoginForm.cs",
+              "ToolTip": "A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\InventoryManagementSystem\\InventoryManagementSystem\\LoginForm.cs [Design]",
+              "RelativeToolTip": "InventoryManagementSystem\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T05:35:09.902Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\InventoryManagementSystem\\InventoryManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\LoginForm.cs",
+              "ToolTip": "A:\\NED(tiest)\\git2\\C# DESKTOP APPLICATION\\InventoryManagementSystem\\InventoryManagementSystem\\LoginForm.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:21:39.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
